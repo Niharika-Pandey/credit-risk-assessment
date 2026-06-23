@@ -1,18 +1,7 @@
 # End-to-End Credit Risk Assessment System
 
-This repository contains a professional, production-grade Credit Risk Assessment machine learning pipeline and underwriting dashboard. Built with a risk analytics consulting mindset (tailored for companies like American Express, EY, Deloitte, and ZS Associates), this project predicts loan applicant default probability using the UCI German Credit dataset.
+This repository contains a professional, production-grade Credit Risk Assessment machine learning pipeline and underwriting dashboard. Built with a risk analytics, this project predicts loan applicant default probability using the UCI German Credit dataset.
 
-## Resume-Ready Project Description
-
-Copy and paste this professional summary into your resume:
-
-> **Credit Risk & Decisioning Analytics Project**
-> * "Built Logistic Regression, Random Forest, and XGBoost models to classify borrower risk categories and predict default probability, achieving a peak Test ROC-AUC of 0.82."
-> * "Performed robust feature engineering by creating domain-specific risk indices (stability, liquidity, monthly payment burden) and implemented pre-modeling data quality audits (outlier capping via IQR, stratification split)."
-> * "Evaluated model trade-offs using Precision, Recall, F1-Score, and ROC-AUC metrics to optimize threshold tuning for minimisation of bad loan exposure."
-> * "Deployed an interactive Streamlit decisioning dashboard that translates model outputs into underwriting advisories (Approved, Conditional, Declined) with risk mitigation strategies."
-
----
 
 ## Business Case & Objective
 
